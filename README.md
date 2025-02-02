@@ -25,9 +25,3 @@
 - **CSS3**: Para los estilos y diseño responsivo.
 - **JavaScript**: Para funcionalidades como el botón "Volver al inicio".
 - **Git y GitHub**: Para control de versiones y despliegue en GitHub Pages.
-
-## Instalación y uso
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/guismo95/estacion-colombia.git
